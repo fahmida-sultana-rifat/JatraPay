@@ -1,0 +1,2 @@
+# JATRA.PAY
+Public transport is essential for daily commuting, but cash fare payments often cause delays, confusion, and inconvenience for both passengers and drivers. **JATRA.PAY** offers a smart solution by introducing a **cashless fare system** using **QR codes and USSD**. It works on both smartphones and basic phones, making payments **fast, easy, and transparent**. The goal is simple — if we can pay bills or shop online digitally, we should also be able to **travel cash-free and hassle-free** every day.
